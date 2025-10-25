@@ -1,7 +1,6 @@
 
 # 🛍️ LinkShop - 링크로 쇼핑하는 세상
 
-![Create your own shopping link](https://github.com/user-attachments/assets/7e8286f1-9eb4-4691-9c4d-203bbd41a951)
 
 
 
